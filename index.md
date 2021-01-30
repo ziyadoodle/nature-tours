@@ -1,172 +1,195 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+    />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" href="./images/logo-gradient.png" />
 
-  <!--Ion Icons-->
-  <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
+    <!--Ion Icons-->
+    <link
+      href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css"
+      rel="stylesheet"
+    />
 
-  <!--Google Fonts-->
-  <link href="https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Aldrich&display=swap" rel="stylesheet">
+    <!--Google Fonts-->
+    <link
+      href="https://fonts.googleapis.com/css?family=Nunito&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Aldrich&display=swap"
+      rel="stylesheet"
+    />
 
-  <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/styles.css" />
 
-  <title>Nature Tours | Home</title>
+    <title>Nature Tours | Home</title>
 
-</head>
+  </head>
 
-<body>
-  <header>
-    <div class="container">
-      <nav>
-        <div class="nav-brand">
-          <a href="index.html">
-            <img src="images/logo.png" alt="">
-          </a>
-        </div>
-
-        <div class="menu-icons open">
-          <i class="icon ion-md-menu"></i>
-        </div>
-
-        <ul class="nav-list">
-          <div class="menu-icons close">
-            <i class="icon ion-md-close"></i>
-          </div>
-          <li class="nav-item">
-            <a href="#!" class="nav-link current">Home</a>
-          </li>
-          <li class="nav-item">
-            <a href="#!" class="nav-link">Destination</a>
-          </li>
-          <li class="nav-item">
-            <a href="#!" class="nav-link">Pricing</a>
-          </li>
-          <li class="nav-item">
-            <a href="#!" class="nav-link">Booking</a>
-          </li>
-          <li class="nav-item">
-            <a href="#!" class="nav-link">About</a>
-          </li>
-        </ul>
-      </nav>
-    </div>
-
-  </header>
-
-  <main>
-    <section class="hero">
+  <body>
+    <header>
       <div class="container">
-        <div class="main-message">
-          <h3>The great outdoor</h3>
-          <h1>Adventure</h1>
-          <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia temporibus modi magnam, vel vero
-            ex, quia quisquam deleniti recusandae necessitatibus dolore nemo pariatur esse earum voluptates
-            voluptatibus, odio eos magni.
-          </p>
-          <div class="cta">
-            <a href="#!" class="btn">Book now</a>
+        <nav>
+          <div class="nav-brand">
+            <a href="index.html">
+              <img src="images/logo.png" alt="" />
+            </a>
           </div>
-        </div>
+
+          <div class="menu-icons open">
+            <i class="icon ion-md-menu"></i>
+          </div>
+
+          <ul class="nav-list">
+            <div class="menu-icons close">
+              <i class="icon ion-md-close"></i>
+            </div>
+            <li class="nav-item">
+              <a href="#!" class="nav-link current">Home</a>
+            </li>
+            <li class="nav-item">
+              <a href="#!" class="nav-link">Destination</a>
+            </li>
+            <li class="nav-item">
+              <a href="#!" class="nav-link">Pricing</a>
+            </li>
+            <li class="nav-item">
+              <a href="#!" class="nav-link">Booking</a>
+            </li>
+            <li class="nav-item">
+              <a href="#!" class="nav-link">About</a>
+            </li>
+          </ul>
+        </nav>
       </div>
-    </section>
+    </header>
 
-    <section class="experience-outdoors">
-      <div class="container">
-        <div class="title-heading">
-          <h3>Experience</h3>
-          <h1>The thrilling outdoors</h1>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci id sint voluptates, placeat tenetur
-            ipsa.
-          </p>
-        </div>
-
-        <div class="activities-grid">
-          <div class="activities-grid-item star-gazing">
-            <i class="icon ion-md-star"></i>
-            <h1>Star Gazing</h1>
+    <main>
+      <section class="hero">
+        <div class="container">
+          <div class="main-message">
+            <h3>The great outdoor</h3>
+            <h1>Adventure</h1>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit aliquam sunt quod, repellendus, eos
-              vel natus ipsa, officiis dolorem perspiciatis laboriosam? Dolorem iusto reiciendis nemo beatae cumque
-              soluta ipsa adipisci!
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia
+              temporibus modi magnam, vel vero ex, quia quisquam deleniti
+              recusandae necessitatibus dolore nemo pariatur esse earum
+              voluptates voluptatibus, odio eos magni.
+            </p>
+            <div class="cta">
+              <a href="#!" class="btn">Book now</a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="experience-outdoors">
+        <div class="container">
+          <div class="title-heading">
+            <h3>Experience</h3>
+            <h1>The thrilling outdoors</h1>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
+              id sint voluptates, placeat tenetur ipsa.
             </p>
           </div>
-          <div class="activities-grid-item hiking">
-            <i class="icon ion-md-compass"></i>
-            <h1>Hiking</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore perspiciatis, delectus, ducimus
-              praesentium unde maiores aperiam velit a pariatur magni qui at magnam ex, nam quia est, quibusdam
-              repudiandae labore!</p>
+
+          <div class="activities-grid">
+            <div class="activities-grid-item star-gazing">
+              <i class="icon ion-md-star"></i>
+              <h1>Star Gazing</h1>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Suscipit aliquam sunt quod, repellendus, eos vel natus ipsa,
+                officiis dolorem perspiciatis laboriosam? Dolorem iusto
+                reiciendis nemo beatae cumque soluta ipsa adipisci!
+              </p>
+            </div>
+            <div class="activities-grid-item hiking">
+              <i class="icon ion-md-compass"></i>
+              <h1>Hiking</h1>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Tempore perspiciatis, delectus, ducimus praesentium unde maiores
+                aperiam velit a pariatur magni qui at magnam ex, nam quia est,
+                quibusdam repudiandae labore!
+              </p>
+            </div>
+            <div class="activities-grid-item camping">
+              <i class="icon ion-md-bonfire"></i>
+              <h1>Camping</h1>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Tempore perspiciatis, delectus, ducimus praesentium unde maiores
+                aperiam velit a pariatur magni qui at magnam ex, nam quia est,
+                quibusdam repudiandae labore!
+              </p>
+            </div>
           </div>
-          <div class="activities-grid-item camping">
-            <i class="icon ion-md-bonfire"></i>
-            <h1>Camping</h1>
+        </div>
+      </section>
+
+      <section class="testimonials">
+        <div class="container">
+          <div class="testimonial">
+            <div class="testimonial-text-box">
+              <p>
+                This trip was amazing! I can't wait to do it all over again!
+              </p>
+              <i class="icon ion-md-quote"></i>
+            </div>
+            <div class="testimonial-customer">
+              <img src="images/profile-pic.png" alt="" />
+              <h1>- "Dudel the hensom guy"</h1>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="begin-adventure">
+        <div class="container">
+          <div class="title-heading">
+            <h3>Let the</h3>
+            <h1>Adventure begin</h1>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore perspiciatis, delectus, ducimus
-              praesentium unde maiores aperiam velit a pariatur magni qui at magnam ex, nam quia est, quibusdam
-              repudiandae labore!
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
+              id sint voluptates, placeat tenetur ipsa.
             </p>
           </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="testimonials">
-      <div class="container">
-        <div class="testimonial">
-          <div class="testimonial-text-box">
-            <p>This trip was amazing! I can't wait to do it all over again!</p>
-            <i class="icon ion-md-quote"></i>
+          <div class="adventure-grid">
+            <div class="adventure-grid-item">
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor
+                asperiores fugit incidunt eos officia, ducimus repellendus odio
+                nam consequatur vero reprehenderit qui explicabo. Eius officiis
+                quis, blanditiis mollitia! Officiis, accusantium.
+              </p>
+            </div>
+            <div class="adventure-grid-item">
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor
+                asperiores fugit incidunt eos officia, ducimus repellendus odio
+                nam consequatur vero reprehenderit qui explicabo. Eius officiis
+                quis, blanditiis mollitia! Officiis, accusantium.
+              </p>
+            </div>
           </div>
-          <div class="testimonial-customer">
-            <img src="images/profile-pic.png" alt="">
-            <h1>- "Dudel the hensom guy"</h1>
-          </div>
+          <a href="#!" class="btn1">Book your adventure</a>
         </div>
-      </div>
-    </section>
+      </section>
+    </main>
 
-    <section class="begin-adventure">
-      <div class="container">
-        <div class="title-heading">
-          <h3>Let the</h3>
-          <h1>Adventure begin</h1>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci id sint voluptates, placeat tenetur
-            ipsa.
-          </p>
-        </div>
-        <div class="adventure-grid">
-          <div class="adventure-grid-item">
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor asperiores fugit incidunt eos officia, ducimus repellendus odio nam consequatur vero reprehenderit qui explicabo. Eius officiis quis, blanditiis mollitia! Officiis,
-              accusantium.
-            </p>
-          </div>
-          <div class="adventure-grid-item">
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor asperiores fugit incidunt eos officia, ducimus repellendus odio nam consequatur vero reprehenderit qui explicabo. Eius officiis quis, blanditiis mollitia! Officiis,
-              accusantium.
-            </p>
-          </div>
-        </div>
-        <a href="#!" class="btn1">Book your adventure</a>
-      </div>
-    </section>
+    <footer>
+      <p>&copy; 2019 LmaoXD. All rights reserved.</p>
+    </footer>
 
-  </main>
+    <script src="js/scripts.js" type="text/javascript"></script>
 
-  <footer>
-    <p>&copy; 2019 LmaoXD. All rights reserved.</p>
-  </footer>
-
-  <script src="js/scripts.js" type="text/javascript"></script>
-</body>
-
+  </body>
 </html>
